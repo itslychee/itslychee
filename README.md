@@ -1,9 +1,8 @@
 # lychee
-i do things.
+I do things here!
 
 ### contact me
 - email: [itslychee@protonmail.com](mailto:itslychee@protonmail.com?subject=from%20github)
-- matrix: [@itslychee:catgirl.cloud](https://matrix.to/#/@itslychee:catgirl.cloud)
 
 ### gpg
 - [key](https://github.com/itslychee.gpg)
